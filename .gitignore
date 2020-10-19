@@ -1,4 +1,5 @@
 core50/
+partial/core50/
 input/
 # Byte-compiled / optimized / DLL files
 __pycache__/
